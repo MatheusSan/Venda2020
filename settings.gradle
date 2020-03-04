@@ -1,0 +1,2 @@
+rootProject.name='Venda2020'
+include ':app'

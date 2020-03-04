@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Venda2020</string>
+    <string name="senha_telaLogin">Senha</string>
+    <string name="email_telaLogin">E-mail</string>
+    <string name="e_mail_telaLogin">E-mail</string>
+    <string name="entrar_telaLogin">Entrar</string>
+    <string name="esqueci_minha_senha_telaLogin">Esqueci minha senha!</string>
+    <string name="logo_da_empresa_telaLogin">Logo da empresa</string>
+</resources>
